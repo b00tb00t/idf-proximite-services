@@ -25,6 +25,17 @@
 
 ---
 
+## 📚 Méthodologie et analyse
+
+Pour mieux comprendre ce projet et répondre à vos possibles questions, deux pages supplémentaires sont disponibles : 
+
+| Page | Description | Lien |
+|---|---|---|
+| **Méthodologie** | Stack technique, phases de développement. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/METHODOLOGIE.html) |
+| **Analyse** | Définition de l'IPS, limites et biais connus, observations simples. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/ANALYSE.html) |
+
+---
+
 ## 📊 L'Indice de proximité aux services (IPS)
 
 L'IPS mesure, pour chaque commune d'Île-de-France, le temps de trajet moyen de ses habitants vers 60 types d'équipements et services, regroupés en 11 dimensions :
