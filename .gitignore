@@ -1,0 +1,20 @@
+﻿# Raw data — too large, download from INSEE/IGN directly
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+gis_env/
+.ipynb_checkpoints/
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# QGIS
+*.qgz
+*.qgs
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
